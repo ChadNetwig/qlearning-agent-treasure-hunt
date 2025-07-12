@@ -82,6 +82,7 @@ if (cur_epoch % (epsilon * 100)) == 0:
 else:
     action = np.argmax(experience.predict(previous_envstate))
 ```
+This code implements an epsilon-greedy policy that sometimes picks a random action to explore, and otherwise picks the best-known action according to the learned Q-values.
 
 ---
 

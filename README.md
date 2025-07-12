@@ -58,9 +58,6 @@ This screenshot shows the setup of the environment matrix (the maze), the import
 
 ---
 
-```markdown
-## Example Code Snippet
-
 ```python
 if (cur_epoch % (epsilon * 100)) == 0:
     action = random.choice(valid_actions)

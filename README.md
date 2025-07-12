@@ -58,6 +58,22 @@ This screenshot shows the setup of the environment matrix (the maze), the import
 
 ---
 
+## Technologies Used
+- Python 3
+- Keras
+- NumPy
+
+---
+
+## How to Build and Run
+
+1. **Install dependencies:**
+   ```bash
+   pip install keras numpy
+   ```
+
+---
+
 ## Example Code Snippet
 
 ```python

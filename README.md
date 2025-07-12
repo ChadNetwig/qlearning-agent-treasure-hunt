@@ -65,3 +65,9 @@ if (cur_epoch % (epsilon * 100)) == 0:
     action = random.choice(valid_actions)
 else:
     action = np.argmax(experience.predict(previous_envstate))
+
+---
+
+## Important Notes
+- This repository is intended for demonstration and portfolio purposes.
+- Additional configuration may be required for deployment in production environments.

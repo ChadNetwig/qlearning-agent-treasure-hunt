@@ -72,3 +72,8 @@ else:
 ## Important Notes
 - This repository is intended for demonstration and portfolio purposes.
 - Additional configuration may be required for deployment in production environments.
+
+---
+
+## License
+This project is shared for educational and illustrative purposes. No warranty is provided.
